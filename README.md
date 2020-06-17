@@ -1,0 +1,2 @@
+# learntechfuture
+learntechfuture blog scripts
